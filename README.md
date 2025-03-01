@@ -1,4 +1,4 @@
-# Flicker Valid Email Checker
+# Flickr Valid Email Checker
 
 ![image](https://raw.githubusercontent.com/alexrony21/Flicker-Valid-Email-Checker/refs/heads/main/Flickr_Valid_Email_Checker.png)
 
